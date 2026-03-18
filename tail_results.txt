@@ -1,0 +1,54 @@
+Generating ELF files...
+Measuring peak stack size for TCE Run 1...
+174600
+TCE Run 1 peak memory usage: 10 MB
+TCE Run 1 execution time: 98 ms
+
+Measuring peak stack size for TCE Run 2...
+174600
+TCE Run 2 peak memory usage: 10 MB
+TCE Run 2 execution time: 97 ms
+
+Measuring peak stack size for TCE Run 3...
+174600
+TCE Run 3 peak memory usage: 10 MB
+TCE Run 3 execution time: 99 ms
+
+Measuring peak stack size for TCE Run 4...
+174600
+TCE Run 4 peak memory usage: 10 MB
+TCE Run 4 execution time: 98 ms
+
+Measuring peak stack size for TCE Run 5...
+174600
+TCE Run 5 peak memory usage: 10 MB
+TCE Run 5 execution time: 101 ms
+
+Measuring peak stack size for Simple Run 1...
+174600
+Simple Run 1 peak memory usage: 19 MB
+Simple Run 1 execution time: 122 ms
+
+Measuring peak stack size for Simple Run 2...
+174600
+Simple Run 2 peak memory usage: 19 MB
+Simple Run 2 execution time: 127 ms
+
+Measuring peak stack size for Simple Run 3...
+174600
+Simple Run 3 peak memory usage: 19 MB
+Simple Run 3 execution time: 132 ms
+
+Measuring peak stack size for Simple Run 4...
+174600
+Simple Run 4 peak memory usage: 19 MB
+Simple Run 4 execution time: 130 ms
+
+Measuring peak stack size for Simple Run 5...
+174600
+Simple Run 5 peak memory usage: 19 MB
+Simple Run 5 execution time: 131 ms
+
+Average peak memory usage with TCE: 10 MB
+Average peak memory usage without TCE: 19 MB
+Peak stack size benchmark completed!
