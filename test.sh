@@ -12,7 +12,9 @@ echo -e "${BLUE}Using temporary directory: $TEMP_DIR${NC}"
 
 cd runtime/libffi
 make clean && make >/dev/null 2>&1
-cd ../..
+cd riscv64
+make clean && make >/dev/null 2>&1
+cd ../../..
 cd runtime
 make clean && make >/dev/null 2>&1
 cd ..
