@@ -14,7 +14,7 @@
 ### Run
 To run this compiler you should provide following arguments:
 * `--source %path_to_file` path of source file to be compiled
-* `--out` %filename name of emited ll file
+* `--out %filename` name of emited ll file
 * (optional) `-t` enables tail call optimization
 After generating .ll file you can execue it with ./llvm.sh %filename
 
